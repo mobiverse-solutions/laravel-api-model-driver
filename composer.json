@@ -9,7 +9,7 @@
     ],
     "type": "library",
     "require": {
-        "php": "^7.2",
+        "php": "^8.1",
         "ext-curl": "*",
         "illuminate/database": "^7.0"
     },
