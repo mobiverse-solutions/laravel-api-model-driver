@@ -9,3 +9,6 @@ G
 src/Grammar.php,8/0/807c790a1dfcfede053e5db0ce3a237b7a301d1a
 B
 src/Connection.php,c/0/c07877f8e1c57e57c0de959c8ea9051b659bb34c
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
